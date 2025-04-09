@@ -92,3 +92,18 @@ My goal is to **bring this instrument back to life** while preserving its unique
 - **Originality vs. improvement**: My aim is to **retain as many original elements as possible**, but I’m open to implementing **modern upgrades** where necessary — especially in areas where original parts are unsalvageable or compromise playability or sound quality.
 
 This restoration is not just a repair — it's a respectful revival of a rare Korean-made guitar with unique features and vintage soul.
+
+---
+
+## Restoration Progress
+
+### Before Restoration
+
+![Photo 1](images/photo1.jpg){: width="300" }
+![Photo 2](images/photo2.jpg){: width="300" }
+![Photo 3](images/photo3.jpg){: width="300" }
+![Photo 4](images/photo4.jpg){: width="300" }
+![Photo 5](images/photo5.jpg){: width="300" }
+![Photo 6](images/photo6.jpg){: width="300" }
+
+
