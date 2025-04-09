@@ -99,26 +99,27 @@ This restoration is not just a repair — it's a respectful revival of a rare Ko
 
 ### Before Restoration
 
-![Photo 1](images/photo1.jpg){: width="300" }
-![Photo 2](images/photo2.jpg){: width="300" }
-![Photo 3](images/photo3.jpg){: width="300" }
-![Photo 4](images/photo4.jpg){: width="300" }
-![Photo 5](images/photo5.jpg){: width="300" }
-![Photo 6](images/photo6.jpg){: width="300" }
-![Photo 7](images/photo7.jpg){: width="300" }
-![Photo 8](images/photo8.jpg){: width="300" }
-![Photo 9](images/photo9.jpg){: width="300" }
-![Photo 10](images/photo10.jpg){: width="300" }
-![Photo 11](images/photo11.jpg){: width="300" }
-![Photo 12](images/photo12.jpg){: width="300" }
-![Photo 13](images/photo13.jpg){: width="300" }
-![Photo 14](images/photo14.jpg){: width="300" }
-![Photo 15](images/photo15.jpg){: width="300" }
-![Photo 16](images/photo16.jpg){: width="300" }
-![Photo 17](images/photo17.jpg){: width="300" }
-![Photo 18](images/photo18.jpg){: width="300" }
-![Photo 19](images/photo19.jpg){: width="300" }
-![Photo 20](images/photo20.jpg){: width="300" }
-![Photo 21](images/photo21.jpg){: width="300" }
-![Photo 22](images/photo22.jpg){: width="300" }
-
+<p float="left">
+<img src="images/photo1.jpg" width="300" />
+<img src="images/photo1.jpg" width="300" />
+<img src="images/photo1.jpg" width="300" />
+<img src="images/photo1.jpg" width="300" />
+<img src="images/photo1.jpg" width="300" />
+<img src="images/photo1.jpg" width="300" />
+<img src="images/photo1.jpg" width="300" />
+<img src="images/photo1.jpg" width="300" />
+<img src="images/photo1.jpg" width="300" />
+<img src="images/photo1.jpg" width="300" />
+<img src="images/photo1.jpg" width="300" />
+<img src="images/photo1.jpg" width="300" />
+<img src="images/photo1.jpg" width="300" />
+<img src="images/photo1.jpg" width="300" />
+<img src="images/photo1.jpg" width="300" />
+<img src="images/photo1.jpg" width="300" />
+<img src="images/photo1.jpg" width="300" />
+<img src="images/photo1.jpg" width="300" />
+<img src="images/photo1.jpg" width="300" />
+<img src="images/photo1.jpg" width="300" />
+<img src="images/photo1.jpg" width="300" />
+<img src="images/photo1.jpg" width="300" />
+</p>
