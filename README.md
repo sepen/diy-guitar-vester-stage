@@ -101,25 +101,25 @@ This restoration is not just a repair — it's a respectful revival of a rare Ko
 
 <p float="left">
 <img src="images/photo1.jpg" width="300" />
-<img src="images/photo1.jpg" width="300" />
-<img src="images/photo1.jpg" width="300" />
-<img src="images/photo1.jpg" width="300" />
-<img src="images/photo1.jpg" width="300" />
-<img src="images/photo1.jpg" width="300" />
-<img src="images/photo1.jpg" width="300" />
-<img src="images/photo1.jpg" width="300" />
-<img src="images/photo1.jpg" width="300" />
-<img src="images/photo1.jpg" width="300" />
-<img src="images/photo1.jpg" width="300" />
-<img src="images/photo1.jpg" width="300" />
-<img src="images/photo1.jpg" width="300" />
-<img src="images/photo1.jpg" width="300" />
-<img src="images/photo1.jpg" width="300" />
-<img src="images/photo1.jpg" width="300" />
-<img src="images/photo1.jpg" width="300" />
-<img src="images/photo1.jpg" width="300" />
-<img src="images/photo1.jpg" width="300" />
-<img src="images/photo1.jpg" width="300" />
-<img src="images/photo1.jpg" width="300" />
-<img src="images/photo1.jpg" width="300" />
+<img src="images/photo2.jpg" width="300" />
+<img src="images/photo3.jpg" width="300" />
+<img src="images/photo4.jpg" width="300" />
+<img src="images/photo5.jpg" width="300" />
+<img src="images/photo6.jpg" width="300" />
+<img src="images/photo7.jpg" width="300" />
+<img src="images/photo8.jpg" width="300" />
+<img src="images/photo9.jpg" width="300" />
+<img src="images/photo10.jpg" width="300" />
+<img src="images/photo11.jpg" width="300" />
+<img src="images/photo12.jpg" width="300" />
+<img src="images/photo13.jpg" width="300" />
+<img src="images/photo14.jpg" width="300" />
+<img src="images/photo15.jpg" width="300" />
+<img src="images/photo16.jpg" width="300" />
+<img src="images/photo17.jpg" width="300" />
+<img src="images/photo18.jpg" width="300" />
+<img src="images/photo19.jpg" width="300" />
+<img src="images/photo20.jpg" width="300" />
+<img src="images/photo21.jpg" width="300" />
+<img src="images/photo22.jpg" width="300" />
 </p>
