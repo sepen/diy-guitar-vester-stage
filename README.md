@@ -43,7 +43,7 @@ This particular model features a **Super Strat-style body**, a **sharp Jackson-s
 - **Balanced for active signal chain**
 
 ### Bridge & Hardware:
-- **Bridge Type:** Floyd Rose-style locking tremolo system
+- **Bridge Type:** 2-Pivot Guitar Tremolo with Steel Block and Microtuning System
 - **Tuners:** Vintage sealed tuners (original, to be evaluated)
 - **Hardware Finish:** Black (aged)
 
