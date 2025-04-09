@@ -43,9 +43,9 @@ This particular model features a **Super Strat-style body**, a **sharp Jackson-s
 - **Balanced for active signal chain**
 
 ### Bridge & Hardware:
-- **Bridge Type:** Licensed Floyd Rose-style locking tremolo system
+- **Bridge Type:** Floyd Rose-style locking tremolo system
 - **Tuners:** Vintage sealed tuners (original, to be evaluated)
-- **Hardware Finish:** Chrome (aged)
+- **Hardware Finish:** Black (aged)
 
 ---
 
