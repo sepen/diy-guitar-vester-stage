@@ -22,7 +22,7 @@ This particular model features a **Super Strat-style body**, a **sharp Jackson-s
 - **Body Style:** Stratocaster-inspired Super Strat
 - **Color:** Vintage cream
 - **Neck:** Bolt-on maple neck
-- **Fingerboard:** Likely rosewood or maple (TBD upon disassembly)
+- **Fingerboard:** Rosewood with shark fin inlays
 - **Frets:** Medium jumbo
 - **Headstock:** Jackson-style pointed headstock
 
@@ -52,7 +52,7 @@ This particular model features a **Super Strat-style body**, a **sharp Jackson-s
 ## Preamp Details
 
 - **Label:** Segovia Electrics
-- **Chipset:** **M8706 LF442CN** (dual op-amp, JFET input, low-noise)
+- **Chipset:** **LF442CN** (dual op-amp, JFET input, low-noise)
 - **Design Purpose:**
   - Active buffer and signal boost
   - Potential light EQ shaping or signal conditioning
